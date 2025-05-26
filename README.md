@@ -18,9 +18,16 @@ Welcome to **FramedMinds 2k25** – a group of three passionate individuals expl
 - Human-AI Interaction
 - Deep Learning
 
+
 ## 👥 Our Team
 
-We are a team of 3 like-minded AI enthusiasts dedicated to learning, building, and pushing the boundaries of what AI can do.
+Meet the minds behind FramedMinds 2k25:
+
+- **Ramesh Alagaesan** – Senior Data Scientist at Cognizant
+- **Balachandar Balasubramanian** – Software Engineer 2 at Dell Technologies
+- **Ben Stanes** – B.Tech Student at Anna University
+
+Together, we bring diverse perspectives and a shared passion for AI-driven innovation.
 
 ## 📂 Repositories
 
